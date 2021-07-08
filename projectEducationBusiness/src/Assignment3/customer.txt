@@ -1,0 +1,6 @@
+Adam  0112433883  Adam@gmail.com  Classroom  C++  900.0  900.0  
+________
+Wawa  0675443234  Wa@gmail.com  Online  Python  700.0  700.0  
+________
+Alvin  0867535789  Alvin@gmail.com  Online  Java  800.0  800.0  
+________

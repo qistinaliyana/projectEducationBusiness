@@ -1,0 +1,16 @@
+Laila  01267859  Layla@gmail.com  Classroom  Java  800.0  800.0  
+________
+Mila  01685493  Ml@gmail.com  Classroom  Python  700.0  700.0  
+________
+Aman  01987654  Man@gmail.com  Online  C++  900.0  900.0  
+________
+Saiful  01124338  Sai@gmail.com  Online  Python  700.0  700.0  
+________
+Yuven  01556789  ven@gmail.com  Online  C++  900.0  900.0  
+________
+Alvin Chong  01684952  Al@gmail.com  Online  Java  800.0  800.0  
+________
+Sri  01784930  Sri@gmail.com  Online  C++  900.0  900.0  
+________
+Hairul  01834268  rul@gmail.com  Classroom  C++  900.0  900.0  
+________
